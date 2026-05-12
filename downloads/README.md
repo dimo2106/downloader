@@ -4,6 +4,7 @@
 - [FlClash-0.8.92-android-x86_64](./FlClash-0.8.92-android-x86_64)
 - [FlClash-0.8.92-windows-amd64-setup](./FlClash-0.8.92-windows-amd64-setup)
 - [Help](./Help)
+- [main](./main)
 - [mhrv-rs-android-armeabi-v7a-v1.9.22](./mhrv-rs-android-armeabi-v7a-v1.9.22)
 - [pywarp-windows-x64-v1.3.4](./pywarp-windows-x64-v1.3.4)
 
